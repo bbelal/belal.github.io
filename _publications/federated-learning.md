@@ -5,6 +5,7 @@ category: manuscripts
 permalink: /publication/federated-learning
 excerpt: 'This paper studies non-smooth problems of convex stochastic optimization.'
 date: 2023-05-21
+paperurl: 'https://publications.hse.ru/pubs/share/direct/909030724.pdf'
 venue: 'Computational Mathematics and Mathematical Physics'
 citation: 'Alashqar, B. A., et al. "Gradient-free federated learning methods with l 1 and l 2-randomization for non-smooth convex stochastic optimization problems." Computational Mathematics and Mathematical Physics 63.9 (2023): 1600-1653.'
 ---
